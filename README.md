@@ -78,7 +78,7 @@ $ yarn
 # Run the application in development mode
 $ yarn start
 
-# The server will start at port: 3000 - go to http://localhost:3000
+# The project will start at port: 3000 - go to http://localhost:3000
 
 ```
 
